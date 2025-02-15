@@ -1,0 +1,45 @@
+/*
+Theme Name: The Comparison Spot
+Theme URI: https://thecomparisonspot.com
+Author: Your Name
+Description: A lightweight, modern WordPress theme for product comparisons.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: product-comparison, affiliate-marketing, responsive, seo-friendly
+Text Domain: comparison-spot
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E6F7FF;
+    color: #333;
+}
+
+.header {
+    background-color: #FFD700;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.product-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.product-table th, .product-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.buy-now {
+    background-color: #FFD700;
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+}
